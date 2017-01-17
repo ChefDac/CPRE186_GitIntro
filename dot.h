@@ -4,3 +4,4 @@
 double dot(double a[], double b[], int length) ;
 #endif
 
+  

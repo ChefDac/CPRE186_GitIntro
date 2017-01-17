@@ -5,7 +5,7 @@
 /*  Compile by
 gcc main.c dot.c -o main
 */
-
+  
 
 void scanV(double v[], int num) {
 	int i;
